@@ -1,6 +1,10 @@
 # imcCalculatorDart
 IMC Calculator
 
+Botão RESET inserido na AppBar
+
+![untitled](https://user-images.githubusercontent.com/39272194/51615446-062b9200-1f0f-11e9-9ccf-4928fdfcf955.gif)
+
 ![tela](https://user-images.githubusercontent.com/39272194/51614890-b8625a00-1f0d-11e9-8bf1-c08f1f930204.png)
 
 VALIDAÇÃO DE FORMULÁRIO
